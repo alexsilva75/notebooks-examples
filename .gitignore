@@ -1,2 +1,6 @@
 dataset/
 .ipynb_checkpoints/
+azan/
+dataset_base/
+dataset_origin/
+data/
