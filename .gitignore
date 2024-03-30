@@ -3,4 +3,6 @@ dataset/
 azan/
 dataset_base/
 dataset_origin/
+dataset_run/
 data/
+static_kfold/
